@@ -72,6 +72,7 @@ Gemini / ElevenLabs etc. ko agar use kar rahe ho to apni keys OS environment me 
 setx GEMINI_API_KEY "your_gemini_key_here"
 setx ELEVENLABS_API_KEY "your_elevenlabs_key_here"
 # close and reopen terminal to take effect
+# run test_api.py if code run successful and show your api all set .
 
 6.Run
 
